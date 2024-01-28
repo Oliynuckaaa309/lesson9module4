@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch Edge against localhost",
+            "url": "file:///C:/Users/User/Desktop/JS/4%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D0%B4%D0%B6/lesson9Typescript/index9.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
